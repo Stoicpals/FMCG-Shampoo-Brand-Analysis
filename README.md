@@ -257,7 +257,7 @@ The project reflects foundational Business Analyst capabilities, including probl
 
 **Project Level:** Beginner Portfolio Case Study
 
-**Author:** Your Name
+**Author:** Pallavi Sirigiri
 
 **Tools:** Microsoft Excel | Power Query | Power BI | DAX | GitHub
 
